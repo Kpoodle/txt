@@ -34,7 +34,6 @@ preview="https://"
 adult="no"
 description=" Poodle Phenomenal Basic Build for Kodi 18.5 Leia"
 
-
 name=" Pellucid 18.5 Medium Buid"
 version=" [COLOR limegreen]1.0.4[/COLOR] "
 url="https://drive.google.com/open?id=1By0sE9jZv_TRyvKHXLHcniIfzCiCvXKl"
