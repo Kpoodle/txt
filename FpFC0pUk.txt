@@ -36,7 +36,7 @@ description=" Poodle Phenomenal Basic Build for Kodi 18.5 Leia"
 
 name=" Pellucid 18.5 Medium Buid"
 version=" [COLOR limegreen]1.0.4[/COLOR] "
-url="https://github.com/Kpoodle/Builds/raw/master/Pellocid18Medium104.zip"
+url="https://github.com/Kpoodle/Builds/raw/master/Pellucid18Medium104.zip"
 gui=""
 Kodi="18.5"
 theme="http://"
