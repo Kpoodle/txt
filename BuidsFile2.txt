@@ -38,7 +38,7 @@ preview="http://"
 adult="No"
 description="Poodle Pellucid Medium Build for Kodi 18.6 Leia"
 
-name="Experiment Buid"
+name="בילד לניסוי לא להתקין"
 version="1.0.0"
 url="https://github.com/Kpoodle/Builds/raw/master/Pellucid18Medium106.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Pellucid18Medium-U.zip"
