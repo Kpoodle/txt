@@ -24,7 +24,7 @@ icon="https://raw.githubusercontent.com/Kpoodle/images/master/icon.png"
 fanart="https://raw.githubusercontent.com/Kpoodle/images/master/fanart.png"
 preview="http://"
 adult="No"name="Pellucid 18 Medium Buid"
-description="https://raw.githubusercontent.com/Kpoodle/images/master/EstuaryBasicBuild.jpeg"
+description="https://raw.githubusercontent.com/Kpoodle/images/master/fanart.png"
 
 name="Pellucid 18 Medium Buid"
 version="1.0.7"
