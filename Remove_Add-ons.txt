@@ -1,1 +1,3 @@
 Remove: plugin.video.TheFirstAvenger
+Remove: plugin.program.indigo
+Remove: repository.elementum
