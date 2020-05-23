@@ -1,5 +1,5 @@
 id="plugin.program.PoodleWizard"
-version="1.1"
+version="1.2"
 zip="https://kpoodle.github.io/repo/"
 
 name="Estuary 17 Basic Build"
