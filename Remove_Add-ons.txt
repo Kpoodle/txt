@@ -1,3 +1,11 @@
-Remove: plugin.video.TheFirstAvenger
 Remove: plugin.program.indigo
+Remove: plugin.video.MyYoutube
+Remove: plugin.video.TheFirstAvenger
 Remove: repository.elementum
+Remove: repository.exodusredux
+Remove: repository.kodibae
+Remove: repository.thecrew
+Remove: repository.tva.common
+Remove: repository.xbmchub
+Remove: script.module.urlresolver
+Remove: service.xbmc.versioncheck
