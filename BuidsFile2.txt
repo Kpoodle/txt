@@ -38,7 +38,7 @@ preview="http://"
 adult="No"
 description="בילד פודל פלוסיד לקודי 18 - מתאים לסטרימרים עם 2 ג'יגה זיכרון - כמו סטרימר שיאומי מיבוקס"
 
-name="Eminence 18 Build"
+name="Eminence 18 T.E.S.T"
 version="20.06"
 url="https://github.com/Kpoodle/Builds/raw/master/Eminence.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Estuary18Basic-U.zip"
