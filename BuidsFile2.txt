@@ -28,7 +28,7 @@ description="בילד קודי נקי+ בסיסי לקודי 18.7 ליאה - מ�
 
 name="Pellucid 18 Medium Build"
 version="20.06"
-url="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2006.zip"
+url="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2006a.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Pellucid18U.zip"
 kodi="18.7"
 theme="http://"
