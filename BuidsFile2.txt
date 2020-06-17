@@ -40,7 +40,7 @@ description="בילד פודל פלוסיד לקודי 18 - מתאים לסטר�
 
 name="Eminence 18 T.E.S.T"
 version="0.0.1"
-url="https://github.com/Kpoodle/Builds/raw/master/Eminence001c.zip"
+url="https://github.com/Kpoodle/Builds/raw/master/Eminence18v001d.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Eminence18U1.zip"
 kodi="18.7"
 theme="http://"
