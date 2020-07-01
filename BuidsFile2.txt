@@ -1,5 +1,5 @@
 id="plugin.program.PoodleWizard"
-version="1.1"
+version="1.3"
 zip="https://kpoodle.github.io/repo/"
 
 name="Estuary 17 Basic Build"
@@ -39,7 +39,7 @@ adult="No"
 description="בילד פודל פלוסיד לקודי 18 - מתאים לסטרימרים עם 2 ג'יגה זיכרון - כמו סטרימר שיאומי מיבוקס"
 
 name="Eminence 18"
-version="0.0.1"
+version="0.0.2"
 url="https://github.com/Kpoodle/Builds/raw/master/Eminence18v002a.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Eminence18U1a.zip"
 kodi="18.7"
