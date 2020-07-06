@@ -2,7 +2,7 @@ id="plugin.program.PoodleWizard"
 version="1.4"
 zip="https://kpoodle.github.io/repo/"
 
-name="Eminence 18"
+name="Poodle - Eminence 18"
 version="0.0.2"
 url="https://github.com/Kpoodle/Builds/raw/master/Eminence18v002a.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Eminence18U1a.zip"
