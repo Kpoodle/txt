@@ -1,5 +1,5 @@
 id="plugin.program.PoodleWizard"
-version="1.4"
+version="1.4.2"
 zip="https://kpoodle.github.io/repo/"
 
 name="Poodle - Eminence 18"
