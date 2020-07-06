@@ -14,7 +14,7 @@ preview="https://"
 adult="No"
 description="בילד אמיננס לקודי 18 - מתאים לסטרימרים עם 2 ג'יגה זיכרון - כמו סטרימר שיאומי מיבוקס !!!"
 
-name="Pellucid 18 Medium Buid"
+name="Poodle - Pellucid 18 Medium Buid"
 version="20.07"
 url="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2007a.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Pellucid18U1a.zip"
