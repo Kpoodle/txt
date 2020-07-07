@@ -12,7 +12,7 @@ icon="https://github.com/Kpoodle/images/raw/master/icon-Eminence2.png"
 fanart="https://raw.githubusercontent.com/Kpoodle/images/master/fanart.png"
 preview="https://"
 adult="No"
-description="בילד אמיננס לקודי 18 - מתאים לסטרימרים עם 2 ג'יגה זיכרון - כמו סטרימר שיאומי מיבוקס !!!"
+description="בילד אמיננס לקודי 18 - הבילד המוכר עם אפשרויות מורחבות"
 
 name="Poodle - Pellucid 18"
 version="20.07"
