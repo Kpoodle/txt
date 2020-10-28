@@ -49,3 +49,4 @@ fanart="https://raw.githubusercontent.com/Kpoodle/images/master/fanart.png"
 preview="http://"
 adult="No"
 description="בילד קודי נקי+ בסיסי לקודי 17.6 קריפטון - מתאים למי שרוצה להתקין את ההרחבות בכוחות עצמו"
+
