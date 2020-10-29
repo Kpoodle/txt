@@ -15,7 +15,7 @@ adult="No"
 description="בילד אמיננס לקודי 18 - הבילד המוכר עם אפשרויות מורחבות"
 
 name="Poodle - Pellucid 18"
-version="20.07"
+version="20.10"
 url="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2010a.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2010U1a.zip"
 kodi="18.9"
