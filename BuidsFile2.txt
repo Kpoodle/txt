@@ -28,7 +28,7 @@ description="בילד פודל פלוסיד לקודי 18 - כל ההרחבות 
 
 name="Poodle - Aura 18"
 version="0.1.1"
-url="https://github.com/Kpoodle/Builds/raw/master/Aura18v011a1.zip"
+url="https://github.com/Kpoodle/Builds/raw/master/Aura18v011a2.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Aura18v011-U1a.zip"
 kodi="18.9"
 theme="http://"
@@ -61,4 +61,3 @@ fanart="https://raw.githubusercontent.com/Kpoodle/images/master/fanart.png"
 preview="http://"
 adult="No"
 description="בילד קודי נקי+ בסיסי לקודי 17.6 קריפטון - מתאים למי שרוצה להתקין את ההרחבות בכוחות עצמו"
-
