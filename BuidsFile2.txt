@@ -27,7 +27,7 @@ adult="No"
 description="בילד פודל פלוסיד לקודי 18 - כל ההרחבות על המסך הראשי"
 
 name="Poodle - Aura 18"
-version="0.1.1"
+version="0.1.2"
 url="https://github.com/Kpoodle/Builds/raw/master/Aura18v012a1.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Aura18v012-U2b.zip"
 kodi="18.9"
