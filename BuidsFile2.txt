@@ -12,7 +12,10 @@ icon="https://github.com/Kpoodle/images/raw/master/icon-Eminence18v004.png"
 fanart="https://raw.githubusercontent.com/Kpoodle/images/master/fanart.png"
 preview="https://"
 adult="No"
-description="בילד אמיננס לקודי 18 - הבילד המוכר עם אפשרויות מורחבות"
+description="בילד אמיננס לקודי 18 (ליאה) - 
+בילד עם סקין אמיננס שהיה שנים רבות הכי פופולרי. 
+הוגדו בו הכמות הכי רחבה של אופציות להתקנת הרחבות בשיטת התקנה בלחיצה. 
+הבילד מתאים גם ל- סמרטפונים ו- טאבלטים."
 
 name="Poodle - Pellucid 18"
 version="20.12"
