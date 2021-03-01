@@ -34,9 +34,9 @@ description="בילד פלוסיד לקודי 18 (ליאה) -
 ✓ הבילד מתאים גם למכשירים עם מסכי מגע כמו: סמרטפונים ו- טאבלטים."
 
 name="Poodle - Aura 18"
-version="0.1.2"
-url="https://github.com/Kpoodle/Builds/raw/master/Aura18v012a1.zip"
-gui="https://github.com/Kpoodle/Builds/raw/master/Aura18v012-U3c.zip"
+version="0.1.3"
+url="https://github.com/Kpoodle/Builds/raw/master/Aura18v013a1.zip"
+gui="https://github.com/Kpoodle/Builds/raw/master/Aura18v013-U4a.zip"
 kodi="18.9"
 theme="http://"
 icon="https://github.com/Kpoodle/images/raw/master/icon-Aura18v011.png"
