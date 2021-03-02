@@ -18,7 +18,7 @@ description="בילד אמיננס לקודי 18 (ליאה) -
 ✓ הבילד מתאים גם למכשירים עם מסכי מגע כמו: סמרטפונים ו- טאבלטים."
 
 name="Poodle - Pellucid 18"
-version="20.12"
+version="21.03"
 url="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2103a.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2103-U3a.zip"
 kodi="18.9"
