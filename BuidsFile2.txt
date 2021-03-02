@@ -3,7 +3,7 @@ version="1.4.3.4"
 zip="https://kpoodle.github.io/repo/"
 
 name="Poodle - Eminence 18"
-version="0.0.5"
+version="0.0.6"
 url="https://github.com/Kpoodle/Builds/raw/master/Eminence18v006b.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Eminence18v006-U2a.zip"
 kodi="18.9"
