@@ -49,7 +49,7 @@ description="בילד אאורה לקודי 18 (ליאה) -
 בילד עם סקין אאורה - לא מתאים - למכשירים עם מסכי מגע כמו: סמרטפונים ו- טאבלטים."
 
 name="Poodle - Estuary 18"
-version="1.0.4"
+version="1.0.5"
 url="https://github.com/Kpoodle/Builds/raw/master/Estuary18v105a.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Estuary18v105-U1a.zip"
 kodi="18.9"
