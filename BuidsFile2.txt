@@ -19,8 +19,8 @@ description="בילד אמיננס לקודי 18 (ליאה) -
 
 name="Poodle - Pellucid 18"
 version="21.03"
-url="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2103a.zip"
-gui="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2103-U3a.zip"
+url="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2103b.zip"
+gui="https://github.com/Kpoodle/Builds/raw/master/Pellucid18v2103-U3b.zip"
 kodi="18.9"
 theme="http://"
 icon="https://github.com/Kpoodle/images/raw/master/icon-Pellucid18v2012.png"
