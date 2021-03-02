@@ -35,7 +35,7 @@ description="בילד פלוסיד לקודי 18 (ליאה) -
 
 name="Poodle - Aura 18"
 version="0.1.4"
-url="https://github.com/Kpoodle/Builds/raw/master/Aura18v014a.zip"
+url="https://github.com/Kpoodle/Builds/raw/master/Aura18v014b.zip"
 gui="https://github.com/Kpoodle/Builds/raw/master/Aura18v014-U4a.zip"
 kodi="18.9"
 theme="http://"
