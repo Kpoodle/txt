@@ -1,11 +1,7 @@
-id="plugin.program.Poodle.Wizard.Matrix"
-version="1.0.0"
-zip="https://kpoodle.github.io/repo/"
-
 name="Poodle - Silvo 19"
 version="0.0.1"
 url="https://github.com/Kpoodle/Builds/raw/master/Silvo19v001b1.zip"
-gui="https://github.com/Kpoodle/Builds/raw/master/Silvo19-U1a.zip"
+gui="https://github.com/Kpoodle/Builds/raw/master/Silvo19v001-U1a.zip"
 kodi="19.0"
 theme="http://"
 icon="https://github.com/Kpoodle/images/raw/master/icon-Eminence18v004.png"
