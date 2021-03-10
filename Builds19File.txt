@@ -10,5 +10,6 @@ fanart="https://raw.githubusercontent.com/Kpoodle/images/master/fanart.png"
 preview="http://"
 adult="no"
 info="http://"
-description="Poodle Matrix 19.0 Build  with skin Aeon Nox Silvo Mod
-פודל"
+description="בילד מטריקס 19 עם סקין איון נוקס סילבו מוד שהוא הכי פופולרי כבר שנים רבות. 
+הוגדרו בו הכמות הכי רחבה של אופציות להתקנת הרחבות בשיטת - התקנה בלחיצה. 
+בילד סילבו - לא מתאים - למכשירים עם מסכי מגע כמו: סמרטפונים ו- טאבלטים."
