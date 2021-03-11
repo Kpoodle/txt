@@ -1,6 +1,6 @@
 name="Poodle - Silvo 19"
 version="0.0.1"
-url="https://github.com/Kpoodle/Builds/raw/master/Silvo19v001b3.zip"
+url="https://github.com/Kpoodle/Builds/raw/master/Silvo19v001b4.zip"
 minor="http://"
 gui="https://github.com/Kpoodle/Builds/raw/master/Silvo19v001-U1a.zip"
 kodi="19.0"
